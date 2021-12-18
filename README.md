@@ -1,4 +1,3 @@
-### Hi there 👋
 [![YenHoang's GitHub Banner](./assets/GitHubHeader.png)](https://yenhoang_portfolio.surge.sh/)
 <h2>Hi there 👋 </h2>
 
