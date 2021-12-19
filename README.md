@@ -6,20 +6,14 @@
 
 <h2>Glad that you made it here 😄 </h2> 
 
-<div float="left">
-    <p>
-        - 🔭 I’m currently working on something cool
-        - 🌱 I’m currently learning Vuejs
-        - 🤔 I’m looking for help with Vuejs
-        - 💬 Ask me about anything 
-        - 📫 How to reach me: in the moon
-        - 😄 Pronouns: She/Her/Ella
-        - ⚡ Fun fact: 
-    </p>
-    
-  <img src="https://i.postimg.cc/yY55Mpxk/7bb0d27e44d8c2eff47276ae86bfd6a3.png" width="100" />
-</div>
-
+- 🔭 I’m currently working on something cool
+- 🌱 I’m currently learning Vuejs
+- 🤔 I’m looking for help with Vuejs
+- 💬 Ask me about anything 
+- 📫 How to reach me: in the moon
+- 😄 Pronouns: She/Her/Ella
+- ⚡ Fun fact: 
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <p>Languages/ Framework I've worked with</p>
 
@@ -27,7 +21,6 @@
 -- 
 ![React Native Badge](	https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Js Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Js Badge](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white) ![Js Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Js Badge](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) ![SAP Badge](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
 
