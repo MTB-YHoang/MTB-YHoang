@@ -11,7 +11,7 @@
 
 </div>
 
-## Language - Framework I have worked with
+## 🪄 Language - Framework I have worked with
 
 <div align="center">
   
