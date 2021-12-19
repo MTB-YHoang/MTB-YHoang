@@ -13,7 +13,8 @@
 - 📫 How to reach me: in the moon
 - 😄 Pronouns: She/Her/Ella
 - ⚡ Fun fact: 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+
+- ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <p>Languages/ Framework I've worked with</p>
 
