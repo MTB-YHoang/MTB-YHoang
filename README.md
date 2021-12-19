@@ -5,7 +5,7 @@
 
 <h2>Glad that you made it here 😄 </h2> ![visitors](https://visitor-badge.laobi.icu/badge?page_id=YenHoangBcn.YenHoangBcn)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?YenHoangBcn=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
                 
                 
 
