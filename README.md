@@ -7,7 +7,6 @@
 <h2>Glad that you made it here 😄 </h2> 
 
 <p float="left">
-  <p>
     - 🔭 I’m currently working on something cool
     - 🌱 I’m currently learning Vuejs
     - 🤔 I’m looking for help with Vuejs
@@ -16,7 +15,6 @@
     - 😄 Pronouns: She/Her/Ella
     - ⚡ Fun fact: 
     ![Jokes Card](https://readme-jokes.vercel.app/api)
-  </p>
   <img src="https://i.postimg.cc/yY55Mpxk/7bb0d27e44d8c2eff47276ae86bfd6a3.png" width="100" />
 </p>
 
