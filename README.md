@@ -6,6 +6,8 @@
 
 <h2>Glad that you made it here 😄 </h2> 
 
+## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+
 - 🔭 I’m currently working on something cool
 - 🌱 I’m currently learning Vuejs
 - 🤔 I’m looking for help with Vuejs
