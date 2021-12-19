@@ -1,6 +1,6 @@
 [![YenHoang's GitHub Banner](https://i.postimg.cc/KzP6ZG6j/Green-and-White-Technology-Linked-In-Banner-1.png)](https://yenhoang_portfolio.surge.sh/)
 
-<h2>Hi there, I am Yen👋 </h2> ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=YenHoangBcn.YenHoangBcn)
+<h2>Hi there, I am Yen👋 </h2>![Visitor](https://visitor-badge.laobi.icu/badge?page_id=YenHoangBcn.YenHoangBcn)
 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YenHoangBcn) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yen-hoang-vn/) [![Porfolio Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yenhoang_portfolio.surge.sh/) [![GitLab Badge](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/yenhoangvn) 
 
