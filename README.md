@@ -21,6 +21,7 @@
 </div>
 
 <div align="center">
+  
   <a href="">![React Native Badge](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)</a>
   <a href="">![Js Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)</a>
   <a href="">![Js Badge](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)</a>
