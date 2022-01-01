@@ -43,15 +43,6 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
-- 🔭 I’m currently working on something cool
-- 🌱 I’m currently learning Vuejs
-- 🤔 I’m looking for help with Vuejs
-- 💬 Ask me about anything 
-- 📫 How to reach me: in the moon
-- 😄 Pronouns: She/Her/Ella
-- ⚡ Fun fact: 
-          
-
 
 
 <!--
